@@ -1,0 +1,11 @@
+/Users/subashsharma/Projects/Calculator/Calculator/bin/Debug/netcoreapp2.1/Calculator.deps.json
+/Users/subashsharma/Projects/Calculator/Calculator/bin/Debug/netcoreapp2.1/Calculator.runtimeconfig.json
+/Users/subashsharma/Projects/Calculator/Calculator/bin/Debug/netcoreapp2.1/Calculator.runtimeconfig.dev.json
+/Users/subashsharma/Projects/Calculator/Calculator/bin/Debug/netcoreapp2.1/Calculator.dll
+/Users/subashsharma/Projects/Calculator/Calculator/bin/Debug/netcoreapp2.1/Calculator.pdb
+/Users/subashsharma/Projects/Calculator/Calculator/obj/Debug/netcoreapp2.1/Calculator.csprojAssemblyReference.cache
+/Users/subashsharma/Projects/Calculator/Calculator/obj/Debug/netcoreapp2.1/Calculator.csproj.CoreCompileInputs.cache
+/Users/subashsharma/Projects/Calculator/Calculator/obj/Debug/netcoreapp2.1/Calculator.AssemblyInfoInputs.cache
+/Users/subashsharma/Projects/Calculator/Calculator/obj/Debug/netcoreapp2.1/Calculator.AssemblyInfo.cs
+/Users/subashsharma/Projects/Calculator/Calculator/obj/Debug/netcoreapp2.1/Calculator.dll
+/Users/subashsharma/Projects/Calculator/Calculator/obj/Debug/netcoreapp2.1/Calculator.pdb

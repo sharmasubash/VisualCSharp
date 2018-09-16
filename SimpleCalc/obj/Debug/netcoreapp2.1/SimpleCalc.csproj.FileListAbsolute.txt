@@ -1,0 +1,11 @@
+/Users/subashsharma/Projects/SimpleCalc/SimpleCalc/bin/Debug/netcoreapp2.1/SimpleCalc.deps.json
+/Users/subashsharma/Projects/SimpleCalc/SimpleCalc/bin/Debug/netcoreapp2.1/SimpleCalc.runtimeconfig.json
+/Users/subashsharma/Projects/SimpleCalc/SimpleCalc/bin/Debug/netcoreapp2.1/SimpleCalc.runtimeconfig.dev.json
+/Users/subashsharma/Projects/SimpleCalc/SimpleCalc/bin/Debug/netcoreapp2.1/SimpleCalc.dll
+/Users/subashsharma/Projects/SimpleCalc/SimpleCalc/bin/Debug/netcoreapp2.1/SimpleCalc.pdb
+/Users/subashsharma/Projects/SimpleCalc/SimpleCalc/obj/Debug/netcoreapp2.1/SimpleCalc.csprojAssemblyReference.cache
+/Users/subashsharma/Projects/SimpleCalc/SimpleCalc/obj/Debug/netcoreapp2.1/SimpleCalc.csproj.CoreCompileInputs.cache
+/Users/subashsharma/Projects/SimpleCalc/SimpleCalc/obj/Debug/netcoreapp2.1/SimpleCalc.AssemblyInfoInputs.cache
+/Users/subashsharma/Projects/SimpleCalc/SimpleCalc/obj/Debug/netcoreapp2.1/SimpleCalc.AssemblyInfo.cs
+/Users/subashsharma/Projects/SimpleCalc/SimpleCalc/obj/Debug/netcoreapp2.1/SimpleCalc.dll
+/Users/subashsharma/Projects/SimpleCalc/SimpleCalc/obj/Debug/netcoreapp2.1/SimpleCalc.pdb
